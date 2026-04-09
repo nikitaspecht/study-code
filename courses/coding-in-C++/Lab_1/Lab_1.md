@@ -57,7 +57,7 @@ The goal of this section is to familiarize yourself with the C++ coding conventi
 ### Task Description
 * Navigate to the __coding-in-C++__ folder and open the __cpp_coding_conventions.md__
 * Read the convention in detail at least up to point 18.)
-* If you do not understand something, align with colleagues, teachers or AI bots
+* Write down any point that is unclear to you for later discussions
 
 ## 🟢 Section III: Age Validation
 
