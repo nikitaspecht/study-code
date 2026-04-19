@@ -101,7 +101,7 @@ The goal of this section is to familiarize yourself with the C++ coding conventi
 
 ### Task Description
 * Navigate to the __coding-in-C++__ folder and open the __cpp_coding_conventions.md__
-* Read the remaining points (starting with section 18) of the convention in detail
+* Read the remaining points (starting with section 19) of the convention in detail
 * Write down any point that is unclear to you for later discussions
 
 ## 🟢 Section IV: Fluent Drink Builder
