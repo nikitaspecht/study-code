@@ -41,7 +41,7 @@ void swap(T &firstValue, T &secondValue)
 */
 
 template <int N, typename T>
-void printFrame(T frame)
+void printFrame(T (&frame)[N])
 {
     std::cout << "[";
     for (int i = 0; i < N - 1; i++)
