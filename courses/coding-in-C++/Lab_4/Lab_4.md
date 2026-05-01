@@ -47,8 +47,13 @@ Implement a method that computes the length (magnitude) of the vector.
 
 - Provide one version that returns the exact length
 - Provide a second overloaded version that returns the length rounded to a specified number of decimal places
-   - Use the ```round``` function of ```<cmath>``` for this purpose
 - Test both versions of the method in the main function
+
+Use the ```round``` function of ```<cmath>``` for this purpose:
+```c++
+    double factor = std::pow(10.0, precision);
+    return std::round(value * factor) / factor;
+```
 
 ---
 
