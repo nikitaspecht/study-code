@@ -64,10 +64,10 @@ Implement operator overloading for basic vector operations.
 
 Your class should support:
 
-- adding two vectors
-- adding another vector to the current object (+=)
-- scalar multiplication in both orders (vector * scalar and scalar * vector)
-- print a vector using standard output streams
+1. adding two vectors
+2. adding another vector to the current object (+=)
+3. scalar multiplication in both orders (vector * scalar and scalar * vector)
+4. print a vector using standard output streams
 
 Test all operators in `main`
 
@@ -78,7 +78,7 @@ Decide:
 
 ---
 
-### Part 4 – Comparison Operators
+### 🟢 Part 4 – Comparison Operators
 
 Enable comparison between two vectors.
 
